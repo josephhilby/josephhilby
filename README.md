@@ -1,24 +1,10 @@
-### Hi there 👋 I'm Joe
+### Hi there 👋, my name is Joe
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently: 
-    - Learning Ruby and Rails at the Turing School of Software Design
-    - Working on updating my previous projects README.md files
-- 📫 How to reach me:
-    - Joseph.Hilby@gmail.com
-    - [https://www.linkedin.com/in/josephmhilby/](https://www.linkedin.com/in/josephmhilby/)
-    
-<!--
-**josephhilby/josephhilby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: RUBY / RAILS / HTML / CSS / PYTHON
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Ruby and Rails at the Turing School of Software Design 
+- 😄 Pronouns: He / Him   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephhilby&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josephmhilby/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](joseph.hilby@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josephhilby) 
