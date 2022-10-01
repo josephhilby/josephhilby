@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Joe
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on updating my previous projects README.md files
-- 🌱 I’m currently learning Ruby and Rails at the Turing School of Software Design
+- 🌱 I’m currently: 
+    - Working on updating my previous projects README.md files
+    - Learning Ruby and Rails at the Turing School of Software Design
 - 📫 How to reach me:
     - Joseph.Hilby@gmail.com
     - [https://www.linkedin.com/in/josephmhilby/](https://www.linkedin.com/in/josephmhilby/)
