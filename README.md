@@ -4,7 +4,7 @@
   </head>
   <body>
     <header>
-      <h1> Hi there <span class="wave">👋</span>, my name is Joe (He / Him) </h1>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:CC0000&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=eeeeee&fontSize=50&fontAlign=25" />
       <p> I’m a former military pilot transitioning to the world of programming. Currently I am learning Ruby and Rails at the 🏫 Turing School of Software Design. Please, reach out if you have any questions! </p>
     </header><br>
     <div align="center">
@@ -58,3 +58,5 @@ https://hendrasob.github.io/badges/#social-
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
 </style>
+
+<h1> Hi there <span class="wave">👋</span>, my name is Joe (He / Him) </h1>
