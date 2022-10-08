@@ -1,9 +1,6 @@
 ![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=FEFEFE&fontSize=50&fontAlign=25)
 
-[![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
-Please, reach out to me on LinkedIn if you have any questions!
-
----
+## Please, reach out to me on LinkedIn if you have any questions! [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
 ![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![python-badge][python] <br>
     
