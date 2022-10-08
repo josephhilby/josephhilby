@@ -1,4 +1,4 @@
-![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=FEFEFE&fontSize=50&fontAlign=25)
+![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=C9D1D9&fontSize=50&fontAlign=25)
 
 ## Please, reach out to me on LinkedIn if you have any questions! [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
@@ -6,6 +6,7 @@
     
 ```yaml
   name: "Joseph Hilby"
+  pronouns: [ "he", "him" ]
   location: "Florida"
   education: 
     {
@@ -54,27 +55,3 @@ https://hendrasob.github.io/badges/#social-
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]
 [![Email: Joseph.Hilby@gmail.com][gmail-badge]][gmail]
 [![GitHub: josephhilby][github-follow-badge]][GitHub]
-
-<style>
-  img {
-    border-radius: 50%;
-  }
-  .wave {
-    animation-name: wave-animation;
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-  @keyframes wave {
-    0% { transform: rotate( 0.0deg) }
-   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
-   20% { transform: rotate(-8.0deg) }
-   30% { transform: rotate(14.0deg) }
-   40% { transform: rotate(-4.0deg) }
-   50% { transform: rotate(10.0deg) }
-   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
-  100% { transform: rotate( 0.0deg) }
-</style>
-
-<h1> Hi there <span class="wave">👋</span>, my name is Joe (He / Him) </h1>
