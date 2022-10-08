@@ -5,9 +5,12 @@
   <body>
     <header>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=FEFEFE&fontSize=50&fontAlign=25" />
-      <p> I’m a former military pilot transitioning to the world of programming. Currently I am learning Ruby and Rails at the 🏫 Turing School of Software Design. Please, reach out if you have any questions! </p>
+      <ul> 
+      <li> I’m a former military pilot transitioning to the world of programming. 
+      <li> Currently I am learning Ruby and Rails at the 🏫 Turing School of Software Design. Please, reach out if you have any questions! 
+      </ul>
     </header><br>
-    <div align="center">
+    <div>
       <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&theme=dark&show_icons=true"><br>
       <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> 
