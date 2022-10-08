@@ -1,18 +1,27 @@
-# Hi there <span class="wave">👋</span>, my name is Joe (He / Him)
+<html>
+  <head>
+  
+  </head>
+  <body>
+    <header>
+      <h1> Hi there <span class="wave">👋</span>, my name is Joe (He / Him) </h1>
+      <p> I’m a former military pilot transitioning to the world of programming. Currently I am learning Ruby and Rails at the 🏫 Turing School of Software Design. Please, reach out if you have any questions! </p>
+    </header><br>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&show_icons=true"><br>
+      <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
+      <a herf='https://www.linkedin.com/in/josephmhilby/'><img src="https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2"></a>
+    </div>
+  </body>
+</html>
 
-I’m a former military pilot transitioning to the world of programming. Currently I am learning Ruby and Rails at the 🏫 Turing School of Software Design. Please, reach out if you have any questions!
-
-  <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&show_icons=true"><br>
-    <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
-    <a herf='https://www.linkedin.com/in/josephmhilby/'><img src="https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2"></a>
-  </div> 
-
-<!-- LINKS AND BADGES -->
+<!-- LINKS AND BADGES
+badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://hendrasob.github.io/badges/#social-
 [GitHub]: https://github.com/josephhilby
 [gmail]: mailto:Joseph.Hilby@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
@@ -24,17 +33,14 @@ I’m a former military pilot transitioning to the world of programming. Current
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [python]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-
-<!----
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josephmhilby/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:joseph.hilby@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josephhilby) 
-
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]
 [![Email: Joseph.Hilby@gmail.com][gmail-badge]][gmail]
 [![GitHub: josephhilby][github-follow-badge]][GitHub]
 
-badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
-
 <style>
+  img {
+    border-radius: 50%;
+  }
   .wave {
     animation-name: wave-animation;
     animation-duration: 2.5s;
