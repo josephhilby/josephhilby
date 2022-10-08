@@ -1,4 +1,4 @@
-## Hi there <span class="wave">👋</span>, my name is Joe (He / Him)
+# Hi there <span class="wave">👋</span>, my name is Joe (He / Him)
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]
 [![Email: Joseph.Hilby@gmail.com][gmail-badge]][gmail]<br>
 
