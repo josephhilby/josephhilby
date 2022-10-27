@@ -23,7 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&theme=dark&show_icons=true&hide=issues,contribs"><br>
 </div>
 
-
+<div style="width:100%;height:0;padding-bottom:40%;position:relative;">
+<iframe src="https://giphy.com/embed/xUA7aO0PLIyJffDln2" width="100%" height="100%" style"position:absolute" frameBorder="0" allowFullScreen></iframe>
+</div>
+    
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
 
