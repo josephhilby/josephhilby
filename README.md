@@ -1,7 +1,6 @@
 ![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=C9D1D9&fontSize=50&fontAlign=25)
 
-## Welcome to my GitHub! 
-### Feel free to reachout on LinkedIn [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
+## :octocat: Welcome to my GitHub!
 
 ![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] <br>
     
@@ -19,6 +18,7 @@
   currently_learning: [ "Ruby", "Rails" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
+### Feel free to reachout on LinkedIn [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
