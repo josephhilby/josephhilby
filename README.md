@@ -2,7 +2,7 @@
 
 ## Please reach out to me on LinkedIn if you have any questions [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![python-badge][python] <br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] <br>
     
 ```yaml
   name: "Joseph Hilby"
@@ -18,10 +18,6 @@
   currently_learning: [ "Ruby", "Rails" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&theme=dark&show_icons=true&hide=issues,contribs"><br>
-</div>
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
@@ -40,6 +36,12 @@ https://hendrasob.github.io/badges/#social-
 [GitHub]: https://github.com/josephhilby
 [gmail]: mailto:Joseph.Hilby@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
+
+![python-badge][python]
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=josephhilby&theme=dark&show_icons=true&hide=issues,contribs"><br>
+</div>
 
 [profile-header]: https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=FEFEFE&fontSize=50&fontAlign=25
 [github-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
