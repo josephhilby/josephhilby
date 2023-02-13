@@ -21,7 +21,7 @@
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
-[linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
+[linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 
 [ruby]: https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=FEFEFE
 [ruby-rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=FEFEFE
