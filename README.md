@@ -18,7 +18,7 @@
   currently_learning: [ "Python", "Pytest", "Django", "Django REST Framework" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
-### Feel free to reachout on LinkedIn [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
+[![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
