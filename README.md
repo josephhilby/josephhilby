@@ -15,7 +15,7 @@
     }
     
   background: "former military pilot transitioning to the world of programming"
-  currently_learning: [ "Ruby", "Rails" ]
+  currently_learning: [ "Python", "Pytest", "Django", "Django REST Framework" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
 ### Feel free to reachout on LinkedIn [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
