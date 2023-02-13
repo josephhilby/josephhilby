@@ -1,9 +1,19 @@
 ![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=C9D1D9&fontSize=50&fontAlign=25)
 
-## :octocat: Welcome to my GitHub!
+<div align="center">
 
 ![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] <br>
+
+</div>
     
+---
+
+<div align="left">
+
+### :octocat: Welcome to my GitHub!
+    
+</div>
+
 ```yaml
   name: "Joseph Hilby"
   pronouns: [ "he", "him" ]
@@ -18,16 +28,21 @@
   currently_learning: [ "Python", "Pytest", "Django", "Django REST Framework" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
+
+<div align="right">
+
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
+    
+</div>
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 
-[ruby]: https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=FEFEFE
-[ruby-rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=FEFEFE
-[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FEFEFE
-[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FEFEFE
-[python]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[ruby]: https://img.shields.io/badge/Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
+[ruby-rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FEFEFE
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FEFEFE
+[python]: https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue
 
 <!-- LINKS, BADGES, AND RESOURCES
 https://github.com/anuraghazra/github-readme-stats
