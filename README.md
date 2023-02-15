@@ -31,6 +31,8 @@
 
 <div align="right">
 
+Please reach out and say 'hi':
+    
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
     
 </div>
