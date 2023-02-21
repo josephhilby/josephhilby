@@ -12,8 +12,6 @@
 
 ### :octocat: Welcome to my GitHub!
     
-[![GitHub: josephhilby][github-follow-badge]][GitHub]
-    
 </div>
 
 ```yaml
@@ -44,10 +42,6 @@ Please reach out and say 'hi':
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 
-[GitHub]: https://github.com/josephhilby
-[github-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
-[github-add-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
-
 [ruby]: https://img.shields.io/badge/Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
 [ruby-rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
 
@@ -61,6 +55,10 @@ Please reach out and say 'hi':
 https://github.com/anuraghazra/github-readme-stats
 badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://hendrasob.github.io/badges/#social-
+
+[GitHub]: https://github.com/josephhilby
+[github-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
+[![GitHub: josephhilby][github-follow-badge]][GitHub]
 
 [gmail]: mailto:Joseph.Hilby@gmail.com
 [gmail-badge]: https://img.shields.io/badge/gmail-Joseph.Hilby@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
