@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] <br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![python-badge][python] ![django-badge][django] <br>
 
 </div>
     
@@ -11,6 +11,8 @@
 <div align="left">
 
 ### :octocat: Welcome to my GitHub!
+    
+[![GitHub: josephhilby][github-follow-badge]][GitHub]
     
 </div>
 
@@ -25,7 +27,7 @@
     }
     
   background: "former military pilot transitioning to the world of programming"
-  currently_learning: [ "Python", "Pytest", "Django", "Django REST Framework" ]
+  currently_learning: [ "JavaScript", "React" ]
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 ``` 
 
@@ -45,6 +47,10 @@ Please reach out and say 'hi':
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FEFEFE
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FEFEFE
 [python]: https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue
+[django]: https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green
+
+[github-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
+[GitHub]: https://github.com/josephhilby
 
 <!-- LINKS, BADGES, AND RESOURCES
 https://github.com/anuraghazra/github-readme-stats
