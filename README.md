@@ -15,18 +15,20 @@
 </div>
 
 ```yaml
-  name: "Joseph Hilby"
-  pronouns: [ "he", "him" ]
-  location: "Florida"
+{
+  name: "Joseph Hilby",
+  pronouns: [ "he", "him" ],
+  location: "Florida",
   education: 
     {
       the_college_of_idaho: "B.A. in Philosophy",
       turing_school_of_software_design: "Certificate of Backend Engineering"
-    }
+    },
     
-  background: "former military pilot transitioning to the world of programming"
-  currently_learning: [ "JavaScript", "React" ]
+  background: "former military pilot transitioning to the world of programming",
+  currently_learning: [ "JavaScript", "React" ],
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
+}
 ``` 
 
 <div align="right">
