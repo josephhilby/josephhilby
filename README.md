@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![python-badge][python] ![django-badge][django] <br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![react-badge][react] ![python-badge][python] ![django-badge][django] <br>
 
 </div>
     
@@ -44,14 +44,17 @@ Please reach out and say 'hi':
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/Joseph--Hilby-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 
-[ruby]: https://img.shields.io/badge/Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
-[ruby-rails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
+[ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
+[ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
 
-[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FEFEFE
-[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FEFEFE
+[HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FEFEFE
+[CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FEFEFE
 
-[python]: https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue
-[django]: https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green
+[react]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+[javascript]: https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=javascript&logoColor=white&style=flat
+
+[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue
+[django]: https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=green
 
 <!-- OLD: LINKS, BADGES, AND RESOURCES
 https://github.com/anuraghazra/github-readme-stats
