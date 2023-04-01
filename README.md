@@ -26,7 +26,7 @@
     },
     
   background: "former military pilot transitioning to the world of programming",
-  currently_learning: [ "JavaScript", "React" ],
+  currently_learning: [ "Java" ],
   hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
 }
 ``` 
