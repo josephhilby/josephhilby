@@ -26,11 +26,10 @@
             "location": "Florida",
             "background": "former military pilot transitioning to the world of programming",
             "hobbies": [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ],
-            "education":
-                {
-                    "the_college_of_idaho": "B.A. in Philosophy",
-                    "turing_school_of_software_design": "Certificate of Backend Engineering"
-                }
+            "education": {
+                "the_college_of_idaho": "B.A. in Philosophy",
+                "turing_school_of_software_design": "Certificate of Backend Engineering"
+            }
         },
         "links": {
             "self": "https://github.com/josephhilby",
