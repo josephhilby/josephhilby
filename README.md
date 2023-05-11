@@ -14,20 +14,28 @@
     
 </div>
 
-```yaml
+```json
 {
-  name: "Joseph Hilby",
-  pronouns: [ "he", "him" ],
-  location: "Florida",
-  education: 
-    {
-      the_college_of_idaho: "B.A. in Philosophy",
-      turing_school_of_software_design: "Certificate of Backend Engineering"
+  "data": {
+    "type": "person",
+    "id": 72,
+    "attributes": {
+        "name": "Joseph Hilby",
+        "pronouns": [ "he", "him" ],
+        "location": "Florida",
+        "background": "former military pilot transitioning to the world of programming",
+        "currently_learning": [ "Java", "C" ],
+        "hobbies": [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ],
+        "eduication":
+            {
+              "the_college_of_idaho": "B.A. in Philosophy",
+              "turing_school_of_software_design": "Certificate of Backend Engineering"
+            }
     },
-    
-  background: "former military pilot transitioning to the world of programming",
-  currently_learning: [ "Java", "C" ],
-  hobbies: [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ]
+    "links": {
+        "self": "https://github.com/josephhilby",
+        "linkedin": "https://www.linkedin.com/in/josephmhilby/"
+    }
 }
 ``` 
 
