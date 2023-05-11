@@ -36,6 +36,7 @@
         "self": "https://github.com/josephhilby",
         "linkedin": "https://www.linkedin.com/in/josephmhilby/"
     }
+  }
 }
 ``` 
 
