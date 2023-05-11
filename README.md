@@ -17,7 +17,7 @@
 ```json
 {
   "data": {
-    "type": "software engineer",
+    "type": "writer of code",
     "id": 72,
     "attributes": {
         "name": "Joseph Hilby",
