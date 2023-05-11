@@ -22,9 +22,9 @@
     "attributes": {
         "name": "Joseph Hilby",
         "pronouns": [ "he", "him" ],
+        "currently_learning": [ "Java", "JUnit", "C" ],
         "location": "Florida",
         "background": "former military pilot transitioning to the world of programming",
-        "currently_learning": [ "Java", "C" ],
         "hobbies": [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ],
         "eduication":
             {
