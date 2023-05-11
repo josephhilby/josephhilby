@@ -26,7 +26,7 @@
         "location": "Florida",
         "background": "former military pilot transitioning to the world of programming",
         "hobbies": [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ],
-        "eduication":
+        "education":
             {
               "the_college_of_idaho": "B.A. in Philosophy",
               "turing_school_of_software_design": "Certificate of Backend Engineering"
