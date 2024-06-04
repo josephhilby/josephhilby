@@ -25,7 +25,7 @@
             "currently_working_in": [ "Python", "C" ],
             "location": "Florida",
             "background": "former military pilot transitioning to the world of computer science",
-            "hobbies": [ "flying", "woodworking", "cooking", "brewing", "retro gaming" ],
+            "hobbies": [ "flying", "tinkering", "brewing", "retro gaming" ],
             "education": {
                 "the_college_of_idaho": "B.A. in Philosophy",
                 "turing_school_of_software_design": "Certificate of Backend Engineering",
