@@ -22,7 +22,7 @@
         "attributes": {
             "name": "Joseph Hilby",
             "location": "Florida",
-            "currently_working_in": [ "C++", Go ],
+            "currently_working_in": [ "C++", "Go" ],
             "background": "former military pilot transitioning to the world of computer science",
             "hobbies": [ "tinkering", "brewing", "retro gaming" ],
             "education": {
