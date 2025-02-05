@@ -1,10 +1,4 @@
 ![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=C9D1D9&fontSize=50&fontAlign=25)
-
-<div align="center">
-
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![react-badge][react] ![python-badge][python] ![django-badge][django] <br>
-
-</div>
     
 ---
 
@@ -65,6 +59,12 @@ Please reach out and say 'hi':
 [django]: https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=green
 
 <!-- OLD: LINKS, BADGES, AND RESOURCES
+<div align="center">
+
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![react-badge][react] ![python-badge][python] ![django-badge][django] <br>
+
+</div>
+
 https://github.com/anuraghazra/github-readme-stats
 badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://hendrasob.github.io/badges/#social-
