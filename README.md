@@ -21,15 +21,14 @@
         "id": 72,
         "attributes": {
             "name": "Joseph Hilby",
-            "pronouns": [ "he", "him" ],
-            "currently_working_in": [ "Python", "C" ],
+            "currently_working_in": [ "C++" ],
             "location": "Florida",
             "background": "former military pilot transitioning to the world of computer science",
             "hobbies": [ "flying", "tinkering", "brewing", "retro gaming" ],
             "education": {
-                "the_college_of_idaho": "B.A. in Philosophy",
-                "turing_school_of_software_design": "Certificate of Backend Engineering",
                 "university_of_florida": "In Process..."
+                "the_college_of_idaho": "B.A. in Philosophy",
+                "turing_school_of_software_design": "Certificate of Backend Engineering"
             }
         },
         "links": {
