@@ -21,10 +21,10 @@
         "id": 72,
         "attributes": {
             "name": "Joseph Hilby",
-            "currently_working_in": [ "C++" ],
             "location": "Florida",
+            "currently_working_in": [ "C++", Go ],
             "background": "former military pilot transitioning to the world of computer science",
-            "hobbies": [ "flying", "tinkering", "brewing", "retro gaming" ],
+            "hobbies": [ "tinkering", "brewing", "retro gaming" ],
             "education": {
                 "university_of_florida": "In Process..."
                 "the_college_of_idaho": "B.A. in Philosophy",
