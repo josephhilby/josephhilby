@@ -10,24 +10,27 @@
 
 ```json
 {
-    "data": {
-        "type": "cs student",
+    "profile": {
+        "type": "software_engineer",
         "id": 72,
         "attributes": {
             "name": "Joseph Hilby",
-            "location": "Florida",
-            "currently_working_in": [ "C++", "Go" ],
-            "background": "former military pilot transitioning to the world of computer science",
-            "hobbies": [ "tinkering", "brewing", "retro gaming" ],
+            "location": "Pensacola, FL",
+            "current_focus": [ "Go", "C++", "Backend Systems", "Aerospace-Tech" ],
+            "background": "Former military pilot leveraging mission-critical discipline in the tech sector",
+            "hobbies": [ "hardware tinkering", "mathematics", "retro gaming nostalgia" ],
             "education": {
-                "university_of_florida": "In Process..."
-                "the_college_of_idaho": "B.A. in Philosophy",
-                "turing_school_of_software_design": "Certificate of Backend Engineering"
+                "degree": "B.S. Computer Science",
+                "institution": "University of Florida"
             }
         },
         "links": {
-            "self": "https://github.com/josephhilby",
+            "github": "https://github.com/josephhilby",
             "linkedin": "https://www.linkedin.com/in/josephmhilby/"
+        },
+        "meta": {
+            "version": "1.0.0",
+            "last_updated": "2025-08-14T00:00:00Z"
         }
     }
 }
