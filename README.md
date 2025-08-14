@@ -16,7 +16,7 @@
         "attributes": {
             "name": "Joseph Hilby",
             "location": "Pensacola, FL",
-            "current_focus": [ "Go", "C++", "Backend Systems", "Aerospace-Tech" ],
+            "current_focus": [ "Go", "Backend Systems", "C++", "Python", "Aerospace-Tech" ],
             "background": "Former military pilot leveraging mission-critical discipline in the tech sector",
             "hobbies": [ "hardware tinkering", "mathematics", "retro gaming nostalgia" ],
             "education": {
@@ -41,10 +41,8 @@
 <div align="left">
 
 ### Reach out and say 'hi'!
-[![Email: Joseph.Hilby@gmail.com][gmail-badge]][gmail]
-[![GitHub followers][github-follow-badge]][GitHub]
-
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]
+[![GitHub followers][github-follow-badge]][GitHub]
 
 </div>
 
@@ -55,6 +53,3 @@
 
 [GitHub]: https://github.com/josephhilby
 [github-follow-badge]: https://img.shields.io/github/followers/josephhilby?label=follow&style=social
-
-[gmail]: mailto:Joseph.Hilby@gmail.com
-[gmail-badge]: https://img.shields.io/badge/gmail-Joseph.Hilby@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
