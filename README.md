@@ -18,7 +18,7 @@
             "location": "Pensacola, FL",
             "current_focus": [ "Go", "Backend Systems", "C++", "Python", "Aerospace-Tech" ],
             "background": "Former military pilot leveraging mission-critical discipline in the tech sector",
-            "hobbies": [ "hardware tinkering", "mathematics", "retro gaming nostalgia" ],
+            "hobbies": [ "hardware tinkering", "mathematics", "retro gaming" ],
             "education": {
                 "degree": "B.S. Computer Science",
                 "institution": "University of Florida"
