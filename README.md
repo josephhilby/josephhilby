@@ -16,7 +16,7 @@
         "attributes": {
             "name": "Joseph Hilby",
             "location": "Pensacola, FL",
-            "current_focus": [ "Go", "Backend Systems", "C++", "Python", "Aerospace-Tech" ],
+            "current_focus": [ "C/C++", "Systems", "ISA", "Compiler Design" ],
             "background": "Former military pilot leveraging mission-critical discipline in the tech sector",
             "hobbies": [ "hardware tinkering", "mathematics", "retro gaming" ],
             "education": {
