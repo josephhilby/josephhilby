@@ -1,50 +1,45 @@
 ![profile-header](https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:FFD43B&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=C9D1D9&fontSize=50&fontAlign=25)
-    
----
-
-<div align="left">
-
-## :octocat: Welcome to my GitHub!
-    
-</div>
-
-```json
-{
-    "profile": {
-        "type": "software_engineer",
-        "id": 72,
-        "attributes": {
-            "name": "Joseph Hilby",
-            "location": "Pensacola, FL",
-            "current_focus": [ "C/C++", "Systems", "ISA", "Compiler Design" ],
-            "background": "Former military pilot leveraging mission-critical discipline in the tech sector",
-            "hobbies": [ "hardware tinkering", "mathematics", "retro gaming" ],
-            "education": {
-                "degree": "B.S. Computer Science",
-                "institution": "University of Florida"
-            }
-        },
-        "links": {
-            "github": "https://github.com/josephhilby",
-            "linkedin": "https://www.linkedin.com/in/josephmhilby/"
-        },
-        "meta": {
-            "version": "1.0.0",
-            "last_updated": "2025-08-14T00:00:00Z"
-        }
-    }
-}
-```
 
 ---
 
-<div align="left">
+## Systems Engineer | C/C++ | Compilers & Low-Level Systems
 
-### Reach out and say 'hi'!
-[![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]
+Building compilers, virtual machines, and hardware–software interfaces.  
+Former Naval Aviator with experience in high-reliability systems, now focused on low-level software and systems engineering.
+
+---
+
+## Interests
+
+- Systems Engineering (Aerospace / Defense / Infrastructure)
+- Compiler & Toolchain Development
+- Low-level / Performance-critical C/C++ systems
+- Integration, Verification, and Testing
+
+---
+
+## Featured Projects  
+Portfolio: https://www.josephhilbyprojects.com/
+
+### FreshlyGround — Programming Language & Compiler  
+- Multi-pass compiler pipeline (lexing → parsing → AST → code generation)  
+- Java backend with React and TypeScript frontend  
+- Interactive AST and token visualization tools  
+- Live Demo: https://freshlyground.onrender.com/  
+- Repository: https://github.com/josephhilby/FreshlyGround  
+
+### Hack++ — Educational Computer System  
+- 16-bit architecture (datapath, control unit, memory)  
+- VM-to-ISA translation pipeline (compile-time translation, no runtime VM)  
+- Hardware/software co-design with supporting documentation and diagrams  
+- Repository: https://github.com/josephhilby/HackPlusPlus  
+
+---
+
+## Connect
+
+[![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]  
 [![GitHub followers][github-follow-badge]][GitHub]
-
-</div>
 
 <!-- LINKS -->
 
