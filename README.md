@@ -2,29 +2,30 @@
 
 ---
 
-## Systems Engineer | C/C++ | Low-Level Systems
+## Systems Engineer | C/C++ | Low-Level and Embedded Systems
 Building compilers, virtual machines, and hardware–software interfaces.  
-Former Naval Aviator with experience in high-reliability systems, now focused on low-level software and systems engineering.
+Former Naval Aviator experienced in mission-critical systems, now focused on building and integrating those systems.
 
 ## Interests
-- Aerospace and Defense
-- Low-level Performance-critical systems
-- Integration Verification and Testing
+- Aerospace and Defense systems
+- Hardware–software interfaces
+- Low-level and performance-critical software
+- Systems integration, verification, and testing
 
-## Featured Projects  
+## Featured Projects
 ### Portfolio: https://www.josephhilbyprojects.com/
 
 ### FreshlyGround — Programming Language and Compiler  
-- Custom programming language with full compiler pipeline
-- Web interface with AST and token visualization  
-- Stack: Java, React, TypeScript  
+- Custom programming language with full compiler pipeline  
+- Web interface for compilation, token inspection, and abstract syntax tree visualization  
+- Stack: Java, TypeScript, React
 - Live Demo: https://freshlyground.onrender.com/  
 - Repository: https://github.com/josephhilby/FreshlyGround 
 
-### Hack++ — Educational Computer System  
-- End-to-end 16-bit computer system from ISA to execution 
-- Browser-based machine and program execution  
-- Stack: C/C++, WebAssembly, React, JavaScript
+### Hack++ — Educational Computer System (In Progress)
+- End-to-end 16-bit computer system from instruction set architecture to execution  
+- Web interface for program selection, execution, and assembly inspection  
+- Stack: C/C++, WebAssembly, JavaScript, React 
 - Repository: https://github.com/josephhilby/HackPlusPlus  
 
 ## Connect
