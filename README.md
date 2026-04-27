@@ -22,8 +22,8 @@ Former Naval Aviator experienced in mission-critical systems, now focused on bui
 - Live Demo: https://freshlyground.onrender.com/  
 - Repository: https://github.com/josephhilby/FreshlyGround 
 
-### Hack++ — Educational Computer System (In Progress)
-- End-to-end 16-bit computer system from instruction set architecture to execution  
+### Hack++ — Full Computer System (In Progress)
+- End-to-end 16-bit computer system from hardware design to instruction set architecture and execution  
 - Web interface for program selection, execution, and assembly inspection  
 - Stack: C/C++, WebAssembly, JavaScript, React 
 - Repository: https://github.com/josephhilby/HackPlusPlus  
