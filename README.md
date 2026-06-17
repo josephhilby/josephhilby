@@ -10,9 +10,9 @@ I apply the discipline of **aviation-honed operational excellence** to the **Sof
 ---
 
 ## Professional Links
-* **Featured Projects:** [Portfolio](https://www.josephhilbyprojects.com/)
-* **Professional Background:** [LinkedIn](https://www.linkedin.com/in/josephmhilby/)
-* **Resume:** [Download PDF](https://www.josephhilbyprojects.com/hilby_resume.pdf)
+* [Portfolio](https://www.josephhilbyprojects.com/)
+* [LinkedIn](https://www.linkedin.com/in/josephmhilby/)
+* [Resume](https://www.josephhilbyprojects.com/hilby_resume.pdf)
 
 ## Connect
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]  
