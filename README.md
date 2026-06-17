@@ -5,7 +5,7 @@
 # Technical Program Manager
 *Bridging high-consequence operational leadership with systems-level software engineering.*
 
-I apply the discipline of **aviation-honed operational excellence** to the **Software Development Lifecycle (SDLC)**. My work focuses on managing complex technical dependencies, mitigating systemic risks, and architecting systems from the ground up to ensure high-reliability delivery.
+I apply the discipline of **aviation-honed operational excellence** to the **Software Development Lifecycle**. My work focuses on managing complex technical dependencies, mitigating systemic risks, and architecting systems from the ground up to ensure high-reliability delivery.
 
 ---
 
@@ -13,13 +13,6 @@ I apply the discipline of **aviation-honed operational excellence** to the **Sof
 * **Featured Projects:** [Portfolio](https://www.josephhilbyprojects.com/)
 * **Professional Background:** [LinkedIn](https://www.linkedin.com/in/josephmhilby/)
 * **Resume:** [Download PDF](https://www.josephhilbyprojects.com/hilby_resume.pdf)
-
----
-
-## Systems Engineering & TPM Focus
-* **Program Governance:** Applying rigorous standardization frameworks to manage technical risk and project availability[cite: 1].
-* **Stakeholder Alignment:** Synthesizing complex technical architecture for cross-functional leadership[cite: 1].
-* **Systems-First Engineering:** Architecting full-stack hardware/software solutions to understand performance trade-offs essential for mission-critical delivery[cite: 1].
 
 ## Connect
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]  
