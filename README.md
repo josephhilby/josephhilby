@@ -2,7 +2,7 @@
 
 ---
 
-# Technical Program Manager
+# Technical Program Manager | Former Naval Aviator
 *Bridging high-consequence operational leadership with systems-level software engineering.*
 
 I apply the discipline of **aviation-honed operational excellence** to the **Software Development Lifecycle**. My work focuses on managing complex technical dependencies, mitigating systemic risks, and architecting systems from the ground up to ensure high-reliability delivery.
