@@ -2,31 +2,24 @@
 
 ---
 
-## Systems Engineer | C/C++ | Low-Level and Embedded Systems
-Building compilers, virtual machines, and hardware–software interfaces.  
-Former Naval Aviator experienced in mission-critical systems, now focused on building and integrating those systems.
+# Technical Program Manager
+*Bridging high-consequence operational leadership with systems-level software engineering.*
 
-## Interests
-- Aerospace and Defense systems
-- Hardware–software interfaces
-- Low-level and performance-critical software
-- Systems integration, verification, and testing
+I apply the discipline of **aviation-honed operational excellence** to the **Software Development Lifecycle (SDLC)**. My work focuses on managing complex technical dependencies, mitigating systemic risks, and architecting systems from the ground up to ensure high-reliability delivery.
 
-## Featured Projects
-### Portfolio: https://www.josephhilbyprojects.com/
+---
 
-### FreshlyGround — Programming Language and Compiler  
-- Custom programming language with full compiler pipeline  
-- Web interface for compilation, token inspection, and abstract syntax tree visualization  
-- Stack: Java, TypeScript, React
-- Live Demo: https://freshlyground.onrender.com/  
-- Repository: https://github.com/josephhilby/FreshlyGround 
+## Professional Links
+* **Featured Projects:** [Portfolio](https://www.josephhilbyprojects.com/)
+* **Professional Background:** [LinkedIn](https://www.linkedin.com/in/josephmhilby/)
+* **Resume:** [Download PDF](https://www.josephhilbyprojects.com/hilby_resume.pdf)
 
-### Hack++ — Full Computer System (In Progress)
-- End-to-end 16-bit computer system from hardware design to instruction set architecture and execution  
-- Web interface for program selection, execution, and assembly inspection  
-- Stack: C/C++, WebAssembly, JavaScript, React 
-- Repository: https://github.com/josephhilby/HackPlusPlus  
+---
+
+## Systems Engineering & TPM Focus
+* **Program Governance:** Applying rigorous standardization frameworks to manage technical risk and project availability[cite: 1].
+* **Stakeholder Alignment:** Synthesizing complex technical architecture for cross-functional leadership[cite: 1].
+* **Systems-First Engineering:** Architecting full-stack hardware/software solutions to understand performance trade-offs essential for mission-critical delivery[cite: 1].
 
 ## Connect
 [![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]  
