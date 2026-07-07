@@ -5,7 +5,7 @@
 # Systems & Software Engineer | Former Naval Aviator
 
 I’m a systems-focused engineer who loves getting into the weeds of how things actually work. I spent over a decade as a 
-Naval Aviator, where I learned that the best way to conduct high-stakes work is to have a rock-solid grasp of the 
+Naval Aviator, where I learned that the best way to conduct complex work is to have a rock-solid grasp of the 
 technical fundamentals.  
 
 I’m currently focused on medium-scoped, low-level projects that sharpen my understanding of core CS topics. When I'm away 
