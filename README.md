@@ -37,7 +37,7 @@ Go Gators! 🐊
 
 <!-- LINKS -->
 
-[Profile-header]: https://capsule-render.vercel.app/api?type=speech&color=0:0021A5,100:FA4616&height=100&section=header&text=Hi%20there%20I'm%20Joe&fontColor=FFFFFF&fontSize=50&fontAlign=30&fontAlignY=45&reversal=true&animation=fadeIn
+[Profile-header]: https://capsule-render.vercel.app/api?type=speech&color=0:0021A5,100:FA4616&height=100&section=header&text=Hi%20there,%20I'm%20Joe&fontColor=FFFFFF&fontSize=50&fontAlign=30&fontAlignY=45&reversal=true&animation=fadeIn
 
 [LinkedIn]: https://www.linkedin.com/in/josephmhilby/
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-%23connect-1E293B?style=flat&labelColor=0077B5
