@@ -5,12 +5,12 @@
 # Systems & Software Engineer | Former Naval Aviator
 
 I’m a systems-focused engineer who loves getting into the weeds of how things actually work. I spent over a decade as a 
-Naval Aviator, where I learned that the best way to conduct complex work is to have a rock-solid grasp of the 
-technical fundamentals.  
+Naval Aviator, where I learned that the best way to perform in complex, high-stakes environments is to start with a 
+rock-solid grasp of the fundamentals.  
 
-I’m currently focused on medium-scoped, low-level projects that sharpen my understanding of core CS topics. When I'm away 
-from the keyboard, you’ll likely find me working on my homelab setup or getting lost in the classic design philosophy of 
-retro games.
+To that end, I’m currently focused on small- to medium-scoped, low-level projects that sharpen my understanding of core 
+CS topics. When I'm away from the keyboard, you’ll likely find studying mathematics, lost in a good book, out for a run,
+or — most importantly — spending time with my family.
 
 ## Projects
 ### Current
