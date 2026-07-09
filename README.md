@@ -29,8 +29,11 @@ Go Gators! 🐊
 
 ---
 
+<div align="center">
+
 [![linkedin-badge]][LinkedIn] [![portfolio-badge]][Portfolio] [![github-follow-badge]][GitHub]
 
+</div>
 
 <!-- LINKS -->
 
